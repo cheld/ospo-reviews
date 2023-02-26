@@ -1,0 +1,11 @@
+# Please add the Github repository information below to request a review.
+# A project review is a prerequisite step in order to change project visibility to public.
+# Please read project guidelines first TODO
+
+---
+test-user-org:
+- demo-repository
+- admin-project-member
+test:
+- aaa
+- bbb
